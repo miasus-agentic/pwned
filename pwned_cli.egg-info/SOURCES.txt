@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+pwned/__init__.py
+pwned/__main__.py
+pwned/cli.py
+pwned/hibp.py
+pwned_cli.egg-info/PKG-INFO
+pwned_cli.egg-info/SOURCES.txt
+pwned_cli.egg-info/dependency_links.txt
+pwned_cli.egg-info/entry_points.txt
+pwned_cli.egg-info/top_level.txt

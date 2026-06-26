@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pwned-cli
+Version: 1.0.0
+Summary: CLI tool to check if emails/passwords have been exposed in data breaches
+Author: pwned-cli contributors
+License: MIT
+Requires-Python: >=3.7
+License-File: LICENSE
+Dynamic: author
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary

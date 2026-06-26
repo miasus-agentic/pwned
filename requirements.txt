@@ -1,0 +1,2 @@
+# pwned-cli uses only Python stdlib (urllib, hashlib, json, argparse)
+# No external dependencies required.
